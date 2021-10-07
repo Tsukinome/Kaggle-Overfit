@@ -12,7 +12,8 @@ Main goal was to not overfit given data since training set was way smaller compa
 ## Technologies used
 * Python - version 3.9
 * Jupyter Notebook 
-* scikit-learn tools 
+* Scikit-learn tools 
+* Neptune
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
